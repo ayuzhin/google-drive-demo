@@ -1,0 +1,14 @@
+.idea/
+.svn
+.DS_Store
+.env.secret
+Thumbs.db
+*.xcuserstate
+*.xcuserdatad
+*.iml
+.externalNativeBuild
+*.dSYM
+*.dSYM.zip
+*.ipa
+
+Pods
